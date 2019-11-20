@@ -139,12 +139,3 @@ for ID in final_tweets.ID:
     else:
         print('Successfully deleted that Tweet.')
 
-
-# In[ ]:
-
-
-consumer_key = 'l6HYjHlvMVRa0D5bohN9emXR9'
-consumer_secret = '8re0nFAap9CFOC4lU75YLZNCIdttodrk8Ho7v9Ps5FykmRot2A'
-access_token = '1461422742-tbXdpLHGFgfg5Qd6cOysEXbyY8dI8crckvRQqKX'
-access_secret = 'EL6OQKAWuXqprmw9rhP4Oz0XBBZSnmF7kvRyrTermWmJL'
-
